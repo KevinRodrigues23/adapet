@@ -1,0 +1,9 @@
+.container-formulario__ancora {
+    color: var(--vermelho);
+    font-size: 15px;
+    
+}
+
+.formulario {
+    margin-bottom: 2em;
+}

@@ -1,0 +1,5 @@
+{
+    "require": {
+        "alguma/biblioteca": "^1.0"
+    }
+}
